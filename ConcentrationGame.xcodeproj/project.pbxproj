@@ -56,15 +56,23 @@
 		D94032362439ABAC00C6D403 /* ConcentrationGame */ = {
 			isa = PBXGroup;
 			children = (
-				D94032372439ABAC00C6D403 /* AppDelegate.swift */,
-				D94032392439ABAC00C6D403 /* SceneDelegate.swift */,
 				D940323B2439ABAC00C6D403 /* ViewController.swift */,
 				D940323D2439ABAD00C6D403 /* Main.storyboard */,
-				D94032402439ABAF00C6D403 /* Assets.xcassets */,
-				D94032422439ABAF00C6D403 /* LaunchScreen.storyboard */,
+				D940324B2439ABC300C6D403 /* SupportGroup */,
 				D94032452439ABAF00C6D403 /* Info.plist */,
 			);
 			path = ConcentrationGame;
+			sourceTree = "<group>";
+		};
+		D940324B2439ABC300C6D403 /* SupportGroup */ = {
+			isa = PBXGroup;
+			children = (
+				D94032372439ABAC00C6D403 /* AppDelegate.swift */,
+				D94032392439ABAC00C6D403 /* SceneDelegate.swift */,
+				D94032402439ABAF00C6D403 /* Assets.xcassets */,
+				D94032422439ABAF00C6D403 /* LaunchScreen.storyboard */,
+			);
+			path = SupportGroup;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
